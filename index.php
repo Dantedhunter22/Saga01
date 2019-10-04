@@ -1,0 +1,11 @@
+define ("ip", "127.0.0.1");
+$numero = 1;
+echo $numero;
+echo "<br>";
+echo "Hello Moto!";
+echo "<br>";
+echo ip;
+echo "<br>";
+$num1 = 4;
+$num2 = 8;
+echo("O resultado da soma é:".($num1 + $num2));
